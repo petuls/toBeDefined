@@ -1,9 +1,3 @@
-//
-//  toBeDefinedUITests.swift
-//  toBeDefinedUITests
-//
-//  Created by Petr Stupka on 09.01.2025.
-//
 
 import XCTest
 
